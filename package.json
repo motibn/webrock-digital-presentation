@@ -1,0 +1,13 @@
+{
+  "name": "webrock-digital-presentation",
+  "version": "1.0.0",
+  "description": "WebRock Digital - Final Project Presentation (standalone HTML)",
+  "private": true,
+  "scripts": {
+    "dev": "serve -l 3000 .",
+    "start": "serve -l 3000 ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
