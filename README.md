@@ -4,9 +4,11 @@
 
 ## פתיחה
 
-פתח את `WebRock Digital - Presentation.html` ישירות בדפדפן — **אין צורך בשרת**.
+פתח את [`presentation.html`](presentation.html) ישירות בדפדפן — **אין צורך בשרת**.
 
-הקובץ standalone מלא: כל הסקריפטים מוטמעים.
+(`index.html` ו-`WebRock Digital - Presentation.html` מפנים לכאן.)
+
+הקובץ standalone מלא: כל הסקריפטים מוטמעים. בנייד, React/Babel לפאנל Tweaks נטענים רק בדסקטופ (חיסכון זיכרון ב-Safari).
 
 ## תוכן המצגת (16 שקפים)
 

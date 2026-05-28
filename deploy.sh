@@ -15,6 +15,6 @@ find . -type f -not -path "./.git/*" -exec chmod 644 {} \;
 find . -type d -not -path "./.git/*" -exec chmod 755 {} \;
 
 # Bump mtime so Last-Modified / ETag reflect the new release.
-touch "index.html" "WebRock Digital - Presentation.html"
+touch "index.html" "presentation.html" "WebRock Digital - Presentation.html"
 
 echo "Deploy OK: $(date -u +%FT%TZ) — commit $(git rev-parse --short HEAD)"
